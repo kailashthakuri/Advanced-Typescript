@@ -36,8 +36,11 @@
 - typescript is statically typed(set during development) that mease we get error in development time when we try to change the type of the variable. so we are forced to be clear
   about the types.
 
-https://www.youtube.com/watch?v=BwuLxPH8IDs&t=1025s
-https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV
+## References
+- https://www.typescriptlang.org/docs/handbook/advanced-types.html
+- https://www.youtube.com/watch?v=BwuLxPH8IDs&t=1025s
+- https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV
+- https://www.youtube.com/watch?v=YPShu0H3RbM&list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU&index=2&t=0s
 
 
 ## important links
