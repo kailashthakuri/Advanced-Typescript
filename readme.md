@@ -6,6 +6,6 @@
 - Rich Configuration options.
 
 ## Notes
-- javascript is dynamically typed(resolved at runtime) which means it is perfectly fine if we have variable that initailly hold number and we can later assign string to it.
+- javascript is dynamically typed(resolved at runtime) which means it is perfectly fine if we have variable that initailly hold number and we later assign string to it.
 - typescript is statically typed(set during development) that means we get error in development time when we try to change the type of the variable. so we are forced to be clear
   about the types.
